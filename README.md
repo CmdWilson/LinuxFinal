@@ -12,7 +12,7 @@ nano dellfileindirect.sh
 #### ([перейти к скрипту](https://github.com/CmdWilson/LinuxFinal/blob/main/dellfileindirect.sh))
 Сохраняем и запускаем в Bash:
 ```
-bash delfiletodir.sh
+bash dellfileindirect.sh
 ```
 
 ### Задача 2. Создать скрипт **ownersort.sh**, который в заданной папке копирует файлы в директории, названные по имени владельца каждого файла. Учтите, что файл должен принадлежать соответствующему владельцу.
