@@ -25,7 +25,7 @@ cat > ownersort.sh
 nano ownersort.sh
 ```
 Далее в файле прописываем скрипт:
-#### ([перейти к скрипту](https://github.com/CmdWilson/LinuxFinal/blob/main/dellfileindirect.sh))
+#### ([перейти к скрипту](https://github.com/CmdWilson/LinuxFinal/blob/main/ownersort.sh))
 Сохраняем и запускаем в Bash:
 ```
 bash ownersort.sh
